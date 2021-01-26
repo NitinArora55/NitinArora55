@@ -12,7 +12,7 @@ Join my [Discord](https://discord.gg/XZeZS4q35h)
 
 
 
-</details> -->
+---
 
 <p align="center">
 <a href="https://discord.gg/xCCpfth">

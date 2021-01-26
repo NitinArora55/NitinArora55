@@ -1,6 +1,6 @@
 ### Hi there, I'm NitinArora20 👋
 
-Join my [Discord](https://discord.gg/XZeZS4q35h)
+Join my :discord~1:[Discord](https://discord.gg/XZeZS4q35h)
 
 ---
 

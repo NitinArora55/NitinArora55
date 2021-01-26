@@ -1,6 +1,6 @@
 ### Hi there, I'm NitinArora20 👋
 
-Join my <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="10"/>[Discord](https://discord.gg/XZeZS4q35h)
+Join my <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="35"/>[Discord](https://discord.gg/XZeZS4q35h)
 
 ---
 

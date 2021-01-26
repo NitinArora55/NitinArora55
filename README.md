@@ -2,7 +2,7 @@
 
 Join my [Discord](https://discord.gg/XZeZS4q35h)
   
-<a href="https://discord.gg/Mvy8gn5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/Mvy8gn5" height="30" width="30" /></a>
+<a href="https://discord.gg/XZeZS4q35h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/XZeZS4q35h" height="30" width="30" /></a>
 </p>
   
   

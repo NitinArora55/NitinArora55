@@ -8,5 +8,4 @@ Join my [Discord](https://discord.gg/XZeZS4q35h)
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="NitinArora20's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NitinArora20&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" style="max-width:100%;title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+![Stats](https://github-readme-stats.vercel.app/api?username=FluffyPanda602&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)

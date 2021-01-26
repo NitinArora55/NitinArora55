@@ -2,8 +2,6 @@
 
 Join my [Discord](https://discord.gg/XZeZS4q35h)
 
----
-
 
 <p align="center">
 <a href="https://discord.gg/XZeZS4q35h">

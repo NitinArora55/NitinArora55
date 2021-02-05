@@ -6,7 +6,7 @@
 </p>
   
 
-### Join Now!
+**❯** Join Now!
 [![Support Server](https://invidget.switchblade.xyz/XZeZS4q35h)](https://discord.com/invite/XZeZS4q35h)
 
   

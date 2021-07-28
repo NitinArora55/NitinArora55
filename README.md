@@ -16,4 +16,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=NitinArora55&&show_icons=true&title_color=ffd700&icon_color=bb2acf&text_color=FFFFFF&bg_color=151515)
 
 
-<img align="left" alt="Dev-Adnani's Github Stats" src="https://metrics.lecoq.io/NitinArora55" style="max-width:100%;">
+<img align="left" alt="Dev-Adnani's Github Stats" src="https://github.com/NitinArora55/NitinArora55" style="max-width:100%;">

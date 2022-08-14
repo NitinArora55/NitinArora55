@@ -4,7 +4,7 @@
 ---    
 
 ### Join Now!
-[![Support Server](https://invidget.switchblade.xyz/XZeZS4q35h)](https://discord.com/invite/XZeZS4q35h)
+[![Support Server](https://invidget.switchblade.xyz/UesGCQng3C)](https://discord.com/invite/UesGCQng3C)
 
   
   

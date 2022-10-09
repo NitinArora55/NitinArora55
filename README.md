@@ -1,4 +1,4 @@
-### Hi there, I'm NitinArora20 👋
+### Hi there, I'm NitinArora 👋
 
   
 ---    
